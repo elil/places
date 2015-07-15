@@ -81,6 +81,7 @@
 { "type": "Feature", "properties": { "id": null, "type": "activity", "descriptio": null, "notes": "switchback left here to go to view point.  Can drive for miles into forest here otherwise" }, "bbox": [ -124.0944, 44.2824, -124.0944, 44.2824 ], "geometry": { "type": "Point", "coordinates": [ -124.0944, 44.2824 ] } },
 { "type": "Feature", "properties": { "id": null, "type": "activity", "descriptio": "beach", "notes": null }, "bbox": [ -124.1099, 44.2802, -124.1099, 44.2802 ], "geometry": { "type": "Point", "coordinates": [ -124.1099, 44.2802 ] } },
 { "type": "Feature", "properties": { "id": null, "type": "view", "descriptio": null, "notes": "Beach access too.  These are all over here, going south for a few miles." }, "bbox": [ -124.1121, 44.2778, -124.1121, 44.2778 ], "geometry": { "type": "Point", "coordinates": [ -124.1121, 44.2778 ] } },
+{ "type": "Feature", "properties": { "id": null, "type": "activity", "descriptio": Toledo Summer Festival July 18-19, "notes": "http://toledosummerfestival.com/?page_id=10" }, "bbox": [ -123.9404, 44.6218, -123.9404, 44.6218 ], "geometry": { "type": "Point", "coordinates": [ -123.9404, 44.6218 ] } },
 { "type": "Feature", "properties": { "id": null, "type": "activity", "descriptio": "cave", "notes": "I'm not sure exactly where" }, "bbox": [ -124.113, 44.2744, -124.113, 44.2744 ], "geometry": { "type": "Point", "coordinates": [ -124.113, 44.2744 ] } }
 ]
 }
