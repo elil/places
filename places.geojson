@@ -83,6 +83,7 @@
 { "type": "Feature", "properties": { "id": null, "type": "activity", "descriptio": "Central Coast Communiity Accupunture", "notes": "http://www.cccacupuncture.com/" }, "bbox": [ -124.0526, 44.6420, -124.0526, 44.6420 ], "geometry": { "type": "Point", "coordinates": [ -124.0526, 44.6420 ] } },
 { "type": "Feature", "properties": { "id": null, "type": "view", "descriptio": null, "notes": "Beach access too.  These are all over here, going south for a few miles." }, "bbox": [ -124.1121, 44.2778, -124.1121, 44.2778 ], "geometry": { "type": "Point", "coordinates": [ -124.1121, 44.2778 ] } },
 { "type": "Feature", "properties": { "id": null, "type": "activity", "descriptio": "Toledo Summer Festival July 18-19", "notes": "http://toledosummerfestival.com/?page_id=10" }, "bbox": [ -123.9404, 44.6218, -123.9404, 44.6218 ], "geometry": { "type": "Point", "coordinates": [ -123.9404, 44.6218 ] } },
+{ "type": "Feature", "properties": { "id": null, "type": "food", "descriptio": "LA mason bakery", "notes": "good pastries,  good food" }, "bbox": [ -124.0557, 44.6325, -124.0557, 44.6325 ], "geometry": { "type": "Point", "coordinates": [ -124.0557, 44.6325 ] } },
 { "type": "Feature", "properties": { "id": null, "type": "activity", "descriptio": "cave", "notes": "I'm not sure exactly where" }, "bbox": [ -124.113, 44.2744, -124.113, 44.2744 ], "geometry": { "type": "Point", "coordinates": [ -124.113, 44.2744 ] } }
 ]
 }
